@@ -25,5 +25,5 @@ This project controls traffic at a 4-way intersection (North, South, East, West)
 Cyclic GREEN: North -> East -> South -> West -> North ...
 
 ## 👩‍💻 Author
-Sravani Kuruvasa - ECE 3rd Year - Kurnool
+Sravani Kuruva - ECE 3rd Year - Kurnool
 VLSI Enthusiast | 18+ Projects
